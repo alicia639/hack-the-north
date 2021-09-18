@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.blockly
+{
+  float: left;
+  width: 50%;
+}
+
+.edit
+{
+  float: right;
+  width: 50%;
+}
